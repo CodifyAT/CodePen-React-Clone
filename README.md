@@ -1,5 +1,69 @@
-# Getting Started with Create React App
+# Code Pen Clone
 
+[LinkToSite](https://CodifyAt.github.io/CodePen-React-Clone)
+Overview
+
+The CodePen Clone is a web application that replicates the core functionality of CodePen, allowing users to create and share HTML, CSS, and JavaScript code snippets in an interactive environment. Built with React.js, this project provides a modern and intuitive interface for coding and live previewing.
+
+Features
+
+	•	Real-Time Code Editing: Edit HTML, CSS, and JavaScript code with instant preview.
+	•	Live Preview: See the changes in real-time as you write code.
+	•	Responsive Design: Interface adapts to various screen sizes for a seamless experience.
+	•	Code Sharing: Share your code snippets with others easily.
+
+Tech Stack
+
+	•	React.js: JavaScript library for building user interfaces.
+	•	HTML/CSS/JavaScript: Core technologies for web development.
+	•	Additional Libraries: Various dependencies to enhance functionality and performance.
+
+Installation
+
+To run this project locally, follow these steps:
+
+	1.	Clone the Repository
+Clone the repository to your local machine:
+```
+git clone https://github.com/yourusername/CodePen-Clone.git
+cd CodePen-Clone
+```
+	2.	Install Dependencies
+Install the required dependencies using npm or yarn:
+Using npm:
+```
+npm install
+```
+
+
+	3.	Run the Development Server
+Start the development server:
+Using npm:
+
+```
+npm start
+```
+
+Dependencies
+
+The project relies on the following dependencies, which are listed in package.json:
+
+	•	react: ^18.2.0
+	•	react-dom: ^18.2.0
+	•	react-scripts: ^5.0.1
+	•	@testing-library/react: ^13.4.0
+	•	@testing-library/jest-dom: ^6.0.0
+	•	react-router-dom: ^6.8.0
+
+These dependencies are used to manage the core functionality and testing of the application.
+
+
+
+
+
+
+
+# Getting Started with Node
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
